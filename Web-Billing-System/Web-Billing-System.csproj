@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\Register_Info.css" />
     <Content Include="js\AngularJavaScript\angular.js" />
     <Content Include="js\AngularJavaScript\jquery-2.1.0.js" />
     <Content Include="js\AngularJavaScript\mf-pattern\img\mF_51xflash\play.gif" />
@@ -161,6 +162,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\System.BLL\System.BLL.csproj">
+      <Project>{721017f3-931c-4224-8850-b52ca5d18dc5}</Project>
+      <Name>System.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System.Model\System.Model.csproj">
+      <Project>{325450fb-3557-4748-9649-8105789a529c}</Project>
+      <Name>System.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -57,3 +57,7 @@ D:\Project\Web-Billing-System\Web-Billing-System\obj\Debug\Web-Billing-System.cs
 D:\Project\Web-Billing-System\Web-Billing-System\obj\Debug\Web-Billing-System.csproj.CopyComplete
 D:\Project\Web-Billing-System\Web-Billing-System\obj\Debug\Web-Billing-System.dll
 D:\Project\Web-Billing-System\Web-Billing-System\obj\Debug\Web-Billing-System.pdb
+D:\Project\Web-Billing-System\Web-Billing-System\bin\System.BLL.dll
+D:\Project\Web-Billing-System\Web-Billing-System\bin\System.Model.dll
+D:\Project\Web-Billing-System\Web-Billing-System\bin\System.BLL.pdb
+D:\Project\Web-Billing-System\Web-Billing-System\bin\System.Model.pdb
