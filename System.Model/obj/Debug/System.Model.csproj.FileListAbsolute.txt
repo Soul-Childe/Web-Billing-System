@@ -1,6 +1,5 @@
 D:\Project\Web-Billing-System\System.Model\bin\Debug\System.Model.dll
 D:\Project\Web-Billing-System\System.Model\bin\Debug\System.Model.pdb
-D:\Project\Web-Billing-System\System.Model\obj\Debug\System.Model.csprojAssemblyReference.cache
 D:\Project\Web-Billing-System\System.Model\obj\Debug\System.Model.csproj.CoreCompileInputs.cache
 D:\Project\Web-Billing-System\System.Model\obj\Debug\System.Model.dll
 D:\Project\Web-Billing-System\System.Model\obj\Debug\System.Model.pdb

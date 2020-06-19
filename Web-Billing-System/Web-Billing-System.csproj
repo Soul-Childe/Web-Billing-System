@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\Register_Info.css" />
+    <Content Include="img\logo.jpg" />
     <Content Include="js\AngularJavaScript\angular.js" />
     <Content Include="js\AngularJavaScript\jquery-2.1.0.js" />
     <Content Include="js\AngularJavaScript\mf-pattern\img\mF_51xflash\play.gif" />
