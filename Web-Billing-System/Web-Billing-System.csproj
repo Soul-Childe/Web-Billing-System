@@ -67,8 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\Copyright.css" />
+    <Content Include="css\Navigation.css" />
     <Content Include="css\Register_Info.css" />
-    <Content Include="img\logo.jpg" />
+    <Content Include="img\ch01.png" />
+    <Content Include="img\ch02.jpg" />
     <Content Include="js\AngularJavaScript\angular.js" />
     <Content Include="js\AngularJavaScript\jquery-2.1.0.js" />
     <Content Include="js\AngularJavaScript\mf-pattern\img\mF_51xflash\play.gif" />
@@ -147,6 +150,8 @@
     <Content Include="js\AngularJavaScript\myfocus-2.0.1.min.js" />
     <Content Include="js\DataJavaScript\Register_Info.js" />
     <Content Include="Web.config" />
+    <Content Include="WebPage\Copyright.html" />
+    <Content Include="WebPage\Navigation.html" />
     <Content Include="WebPage\Register_Info.html" />
   </ItemGroup>
   <ItemGroup>
